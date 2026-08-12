@@ -74,6 +74,14 @@ const developer = {
 
 ---
 
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maiddev/maiddev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=100&section=footer" width="100%"/>
 </p>
