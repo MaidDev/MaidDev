@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=220&section=header&text=⚡%20MAIDDEV%20⚡&fontSize=52&fontColor=00ff88&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20•%20Desktop%20Systems%20•%20All-Rounder%20Developer&descSize=15&descAlignY=62&descColor=00e5ff" width="100%"/>
+<a href="https://github.com/maiddev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=220&section=header&text=⚡%20MAIDDEV%20⚡&fontSize=52&fontColor=00ff88&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Software%20Engineer%20•%20Desktop%20Systems%20•%20All-Rounder%20Developer&descSize=15&descAlignY=62&descColor=00e5ff" width="100%"/>
+</a>
 
 <!-- ANIMATED TYPING SUBTITLE -->
 <a href="https://github.com/maiddev">
@@ -12,21 +14,31 @@
 
 <!-- TOP STATUS BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00ff88?style=for-the-badge&logo=codeforces&logoColor=080b11" />
+  <a href="https://github.com/maiddev">
+    <img src="https://img.shields.io/badge/STATUS-OPEN_TO_COLLAB-00ff88?style=for-the-badge&logo=codeforces&logoColor=080b11" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/DEVELOPER-ALL--ROUNDER-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=080b11" />
+  <a href="https://github.com/maiddev">
+    <img src="https://img.shields.io/badge/DEVELOPER-ALL--ROUNDER-00e5ff?style=for-the-badge&logo=visualstudiocode&logoColor=080b11" />
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/MS_STORE-CERTIFIED_DEV-0078D7?style=for-the-badge&logo=microsoft-store&logoColor=white" />
+  <a href="https://apps.microsoft.com/detail/9P0CR5X8G0V2">
+    <img src="https://img.shields.io/badge/MS_STORE-CERTIFIED_DEV-0078D7?style=for-the-badge&logo=microsoft-store&logoColor=white" />
+  </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MaidDev&label=PROFILE_VIEWS&color=ff007f&style=for-the-badge" alt="Views" />
+  <a href="https://github.com/maiddev">
+    <img src="https://komarev.com/ghpvc/?username=MaidDev&label=PROFILE_VIEWS&color=ff007f&style=for-the-badge" alt="Views" />
+  </a>
 </p>
 
 </div>
 
 ---
 
-<!-- INTRO WITH ALL-ROUNDER CALLOUTS -->
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="170" style="border-radius: 12px; margin-left: 15px;">
+<!-- INTRO WITH ANIMATED AVATAR & GITHUB CALLOUTS -->
+<a href="https://github.com/maiddev">
+  <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="170" style="border-radius: 12px; margin-left: 15px;">
+</a>
 
 ### 𝐇𝐞𝐥𝐥𝐨 𝐖𝐨𝐫𝐥𝐝, 𝐈'𝐦 𝐌𝐚𝐢𝐝𝐃𝐞𝐯 👋
 
@@ -71,20 +83,24 @@
 ### 📈 【﻿Ｃｏｍｂａｔ　Ａｃｔｉｖｉｔｙ　Ｔｅｌｅｍｅｔｒｙ】
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiddev&bg_color=080b11&color=00ff88&line=00ff88&point=ff007f&area=true&area_color=00ff8815&hide_border=true&custom_title=MaidDev%20Contribution%20Frequency%20Spectrum" width="100%" alt="Activity Graph" />
+  <a href="https://github.com/maiddev">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=maiddev&bg_color=080b11&color=00ff88&line=00ff88&point=ff007f&area=true&area_color=00ff8815&hide_border=true&custom_title=MaidDev%20Contribution%20Frequency%20Spectrum" width="100%" alt="Activity Graph" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=maiddev&theme=tokyonight&hide_border=true&background=080b11&ring=00ff88&fire=00ff88&currStreakLabel=00e5ff&currStreakNum=f0f4fc&dates=8e9db7" alt="GitHub Streak" />
+  <a href="https://github.com/maiddev">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=maiddev&theme=tokyonight&hide_border=true&background=080b11&ring=00ff88&fire=00ff88&currStreakLabel=00e5ff&currStreakNum=f0f4fc&dates=8e9db7" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 ---
 
-### 🚀 【﻿Ｄｅｂｕｔ　Ｓｏｆｔ𝐰ａｒｅ　Ｓｐｏｔｌｉｇｈｔ】
+### 🚀 【﻿Ｄｅｂｕｔ　Ｓｏｆｔｗａｒｅ　Ｓｐｏｔｌｉｇｈｔ】
 
 <div align="center">
 
@@ -122,7 +138,9 @@
 ### 🐍 【﻿Ｃｏｎｔｒｉｂｕｔｉｏｎ　Ｓｎａｋｅ　Ｍａｔｒｉｘ】
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maiddev/maiddev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Matrix" />
+  <a href="https://github.com/maiddev">
+    <img src="https://raw.githubusercontent.com/maiddev/maiddev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Matrix" />
+  </a>
 </div>
 
 <br/>
@@ -130,7 +148,9 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=100&section=footer" width="100%"/>
+  <a href="https://github.com/maiddev">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35&height=100&section=footer" width="100%"/>
+  </a>
 </p>
 
 <p align="center">
